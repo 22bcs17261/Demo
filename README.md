@@ -32,7 +32,7 @@ Edit
 └── (Optional) /images/  # Store local copies of images if needed
 📦 How to Use
 Clone the repository:
-git clone https://github.com/your-username/br-architects.git
+git clone https://github.com/22bcs17261/Demo/tree/main
 cd br-architects
 Open the index.html file in your web browser.
 
